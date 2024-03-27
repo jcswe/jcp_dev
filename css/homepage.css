@@ -1,0 +1,14 @@
+.mx-lg-auto {
+    border-radius: 16px;
+}
+
+.feature-icon-small {
+    width: 3em;
+    height: 3em;
+}
+
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: .75rem;
+}
