@@ -3,3 +3,14 @@
     height: 4rem;
     border-radius: .75rem;
 }
+
+.mobile-carousel-item-container {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    background-color: #222222;
+}
+
+.mobile-carousel-item {
+    width: 30%;
+}
