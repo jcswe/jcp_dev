@@ -12,3 +12,11 @@
     height: 4rem;
     border-radius: .75rem;
 }
+
+.bold-span {
+    color: #0d6efd;
+}
+
+.credly-link {
+    width: 95px;
+}
