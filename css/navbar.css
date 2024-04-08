@@ -7,6 +7,10 @@
 
 
 /* footer */
+.footer-container {
+    font-size: 14px;
+}
+
 .text-body-secondary {
     text-decoration: none;
     display: flex;
